@@ -71,7 +71,7 @@ Project Organization
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original us crime, immutable data dump.
     │
-    ├── docs               <- The presentation is placed here !!!!
+    ├── docs               <- 
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
@@ -81,7 +81,7 @@ Project Organization
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc. The presentation is placed here !!!!
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
